@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\OOP\8-puzzle\8-puzzle\Source.cpp(33,2): warning C4091: 'typedef ': ignored on left of 'NodeList' when no variable is declared
+E:\OOP\8-puzzle\8-puzzle\Source.cpp(203,14): warning C4018: '<': signed/unsigned mismatch
+  8-puzzle.vcxproj -> E:\OOP\8-puzzle\Debug\8-puzzle.exe
